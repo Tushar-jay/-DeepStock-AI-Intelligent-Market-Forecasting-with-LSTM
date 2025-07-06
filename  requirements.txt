@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+numpy
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+joblib
+schedule
+logging
+
